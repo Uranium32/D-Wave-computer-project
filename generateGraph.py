@@ -5,7 +5,34 @@ import uuid
 from random import choice
 # Libs to generate random numbers with the possibility to exclude some
 from random import randint
+# Allow to calculate k among n 
 import math
+
+
+def binomialCoefficient(k, n): # n! / (k! * (n - k)!)
+    '''
+    Calculate the binomial coefficient 
+
+    :param k: element k
+    :param n: number among which k is selected
+
+    :type k: integer
+    :type n: integer
+
+    :return: binomial coefficient
+    :rtype: integer
+    '''
+    # Verify the type of the parameters
+    if(type(k) != type(1) or type(n) != type(1)):
+        print("Please enter some integer for n and k")
+        return
+
+    # if k is bigger than n the result must be 0
+    if k > n:
+        return 0
+    
+    # Return the binomial coefficient with the factorial formula
+    return math.factorial(n)/(math.factorial(k) * math.factorial(n - k))
 
 def generateGraph(nbSummits, nbEdges, isWeight = False, minWeight = -100000, maxWeight = -100000):
     '''
@@ -67,8 +94,8 @@ def generateGraph(nbSummits, nbEdges, isWeight = False, minWeight = -100000, max
         maxWeight = minWeight
         minWeight = tmp
     # Verify if it is possible to have as many edges as given in argument
-    #if(nbEdges > math.comb(2, nbSummits)):
-     #   print(f"There is to many edges for {nbSummits} summits {math.comb(2, nbSummits)}")
+    if(nbEdges > binomialCoefficient(2,nbSummits + 1)):
+        print(f"There is to many edges for {nbSummits} summits, the maximum number of edges is {binomialCoefficient(2, nbSummits + 1)}")
 
 
     ## ------- Creation of the edges radomly ------- ##
@@ -113,7 +140,7 @@ def generateGraph(nbSummits, nbEdges, isWeight = False, minWeight = -100000, max
     graph.close()
 
     # Display the name of file saved
-    print(f"The file {fileName} was filled with the graph\n")
+    print(f"\nThe file {fileName} was filled with the graph\n")
 
     # Return the graph
     return result
