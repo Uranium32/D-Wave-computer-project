@@ -93,22 +93,30 @@ def generateGraph(nbSummits, nbEdges, isWeight = False, minWeight = -100000, max
     # Create the file
     graph = open(fileName, "w")
 
+    #Create dictionary
+    result = {}
+
     # If there the weigths are wanted
     if isWeight:
         # Write in the file the graph
         for couple in setSummitCouple:
             graph.write(str(couple)+":"+ str(randint(minWeight,maxWeight)) + ",")
+            result[couple] = randint(minWeight,maxWeight)
     # In the case there is no weight needed
     else:
         # Fill the weigths with 1
         for couple in setSummitCouple:
             graph.write(str(couple)+ ":1,")
+            result[couple] = 1
 
     # Close the file
     graph.close()
 
-    # Return the name of the file
-    return fileName
+    # Display the name of file saved
+    print(f"The file {fileName} was filled with the graph\n")
+
+    # Return the graph
+    return result
 
 if __name__ == "__main__":
     print(generateGraph(18,50, False))
