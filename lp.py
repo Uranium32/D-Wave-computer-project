@@ -1,5 +1,6 @@
 from random import randint
 
+
 class Student:
     '''
     Student class corresponding to the student in M1 at ISEN 
@@ -7,13 +8,18 @@ class Student:
     :member id: identifiant of the student
     :member option1: first choice of the student
     :member option2: second choice of the student
+    :member option3: third choice of the student
+    :member option4: fourth choice of the student
+    :member option5: fifth choice of the student
+
     '''
-    def __init__(self, id, option1, option2):
+    def __init__(self, id, option1, option2, option3, option4, option5):
         self.id = id
         self.option1 = option1
         self.option2 = option2
-        #TODO add options 
-        #self.option3 = option3
+        self.option3 = option3
+        self.option4 = option4
+        self.option5 = option5
 
 class Project:
     '''
@@ -53,6 +59,10 @@ def printModel(model):
         print("Options:")
         print(student.option1)
         print(student.option2)
+        print(student.option3)
+        print(student.option4)
+        print(student.option5)
+
     # Display the information of a project
     for project in model.projects:
         print("\nProject:")
@@ -85,6 +95,12 @@ def lp(model :Model, fileName):
                 lpFile.write("- 1 ")
             elif(project.id == student.option2):
                 lpFile.write("+ 2 ") 
+            elif(project.id == student.option3):
+                lpFile.write("+ 5 ")
+            elif(project.id == student.option3):
+                lpFile.write("+ 10 ")
+            elif(project.id == student.option3):
+                lpFile.write("+ 20 ")
             else :
                 lpFile.write("+ 0 ")
             lpFile.write("x" + str(student.id) + "." + str(project.id) + " ")
@@ -158,8 +174,9 @@ if __name__ == "__main__":
         # Let's assure option 1 and option 2 are different (else add 1 or 2 mod 3)
         if (o1 == o2):
             o2 = (o2 + randint(1, 29)) % 30
+        
         # Creation of the list of students
-        students.append(Student(numStudent, o1, o2))
+        students.append(Student(numStudent, o1, o2, 2, 7, 10))
 
     # Definitions of 30 projects with 2 to 6 students allowed respectively
     for i in range(30):
@@ -173,4 +190,4 @@ if __name__ == "__main__":
     printModel(model)
 
     # Creation of lp file from the model with the filename given
-    lp(model,"test4")
+    lp(model,"test6")
