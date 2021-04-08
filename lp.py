@@ -97,9 +97,9 @@ def lp(model :Model, fileName):
                 lpFile.write("+ 2 ") 
             elif(project.id == student.option3):
                 lpFile.write("+ 5 ")
-            elif(project.id == student.option3):
+            elif(project.id == student.option4):
                 lpFile.write("+ 10 ")
-            elif(project.id == student.option3):
+            elif(project.id == student.option5):
                 lpFile.write("+ 20 ")
             else :
                 lpFile.write("+ 0 ")
@@ -146,6 +146,8 @@ def lp(model :Model, fileName):
     lpFile.write("End\n")
     
     lpFile.close()
+
+    return fileName
 
 if __name__ == "__main__":
     '''
