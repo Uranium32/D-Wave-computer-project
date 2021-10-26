@@ -1,0 +1,250 @@
+------------ Résultat ------------
+
+
+Pour le projet 0 (3/4)
+   étudiant : 93 => martin.valet@isen.yncrea.fr
+   étudiant : 98 => victorien.roussel@isen.yncrea.fr
+   étudiant : 110 => justin.duhez@isen.yncrea.fr
+
+Pour le projet 1 (5/5)
+   étudiant : 19 => thibaut.blasselle@isen.yncrea.fr
+   étudiant : 52 => joshua.ofori@student.yncrea.fr
+   étudiant : 94 => laetitia.husson@student.yncrea.fr
+   étudiant : 120 => theo.ruchot@isen.yncrea.fr
+   étudiant : 153 => lilian.houplin@isen.yncrea.fr
+
+Pour le projet 2 (1/2)
+   étudiant : 51 => julien.van-miegem@student.yncrea.fr
+
+Pour le projet 3 (4/4)
+   étudiant : 26 => gautier.miquet@isen.yncrea.fr
+   étudiant : 63 => louis.willems@isen.yncrea.fr
+   étudiant : 72 => erwin-franck.tchayem@isen.yncrea.fr
+   étudiant : 76 => thibault.goedert@student.yncrea.fr
+
+Pour le projet 4 (4/5)
+   étudiant : 84 => francois.losfeld@isen.yncrea.fr
+   étudiant : 119 => laura.carpentier@student.yncrea.fr
+   étudiant : 159 => quentin.fourmond@isen.yncrea.fr
+   étudiant : 162 => jacquelin.zuili@isen.yncrea.fr
+
+Pour le projet 5 (5/6)
+   étudiant : 5 => antoine.hochart@isen.yncrea.fr
+   étudiant : 57 => lionel.likeukemgang@student.yncrea.fr
+   étudiant : 60 => eliott.hulot@isen.yncrea.fr
+   étudiant : 62 => leontine.beirnaert@isen.yncrea.fr
+   étudiant : 95 => elise.deleval@isen.yncrea.fr
+
+Pour le projet 6 (6/6)
+   étudiant : 4 => thibaut.juzeau@isen.yncrea.fr
+   étudiant : 16 => chunyang.wang@student.yncrea.fr
+   étudiant : 75 => charles.fenart@isen.yncrea.fr
+   étudiant : 85 => sreyroth.phem@student.yncrea.fr
+   étudiant : 109 => leo.tillieu@isen.yncrea.fr
+   étudiant : 141 => eloi.texier@isen.yncrea.fr
+
+Pour le projet 7 (3/4)
+   étudiant : 10 => paul.peyroutet_horgue@isen.yncrea.fr
+   étudiant : 43 => gregoire.clicquot@isen.yncrea.fr
+   étudiant : 116 => benjamin.grosbety@isen.yncrea.fr
+
+Pour le projet 8 (5/5)
+   étudiant : 55 => marthe-sheila.gnitedemg@student.yncrea.fr
+   étudiant : 111 => arnaud.francoise@student.yncrea.fr
+   étudiant : 145 => florian.deconinck@isen.yncrea.fr
+   étudiant : 146 => thomas.carin@isen.yncrea.fr
+   étudiant : 151 => theo.lhotellier@isen.yncrea.fr
+
+Pour le projet 9 (3/4)
+   étudiant : 29 => elisa.vivien@isen.yncrea.fr
+   étudiant : 122 => adrien.bayeulle@isen.yncrea.fr
+   étudiant : 127 => nicolas.seifert@isen.yncrea.fr
+
+Pour le projet 10 (6/6)
+   étudiant : 15 => zhenyu.xiang@student.yncrea.fr
+   étudiant : 31 => mehdi.bakhouy@isen.yncrea.fr
+   étudiant : 77 => saad.el-harchi@student.yncrea.fr
+   étudiant : 78 => corentin.blondeau@student.yncrea.fr
+   étudiant : 103 => anass.bahi@student.yncrea.fr
+   étudiant : 136 => junior.nono-yankam@student.yncrea.fr
+
+Pour le projet 11 (3/4)
+   étudiant : 48 => jean-ferdinand.hattenville@isen.yncrea.fr
+   étudiant : 117 => thomas.thouilliez@isen.yncrea.fr
+   étudiant : 137 => jeong-woo.chae@student.yncrea.fr
+
+Pour le projet 12 (1/2)
+   étudiant : 39 => gregoire.de_clercq@isen.yncrea.fr
+
+Pour le projet 13 (5/5)
+   étudiant : 8 => michael-selasi.dzamesi@student.yncrea.fr
+   étudiant : 40 => jimmy.desitter@student.yncrea.fr
+   étudiant : 74 => victor.gaya@isen.yncrea.fr
+   étudiant : 138 => ghislain.sartorius@isen.yncrea.fr
+   étudiant : 150 => adrien.chantrel@isen.yncrea.fr
+
+Pour le projet 14 (2/3)
+   étudiant : 65 => langfeng.zhu@student.yncrea.fr
+   étudiant : 155 => amaury.blondel@student.yncrea.fr
+
+Pour le projet 15 (3/4)
+   étudiant : 90 => romain.reina@isen.yncrea.fr
+   étudiant : 124 => mathias.mege@isen.yncrea.fr
+   étudiant : 149 => haris.hibic@student.yncrea.fr
+
+Pour le projet 16 (5/6)
+   étudiant : 7 => xavier.bertauld@isen.yncrea.fr
+   étudiant : 11 => Mohamed.ASLI@rabat.yncrea.fr
+   étudiant : 100 => aymane.remmach@student.yncrea.fr
+   étudiant : 104 => guillaume.huber@isen.yncrea.fr
+   étudiant : 131 => hugo.eraud-berthaud@isen.yncrea.fr
+
+Pour le projet 17 (5/6)
+   étudiant : 35 => felix.dacremont@student.yncrea.fr
+   étudiant : 41 => robin.houssier@isen.yncrea.fr
+   étudiant : 71 => oregane.bajeux@isen.yncrea.fr
+   étudiant : 132 => remi.arbache@isen.yncrea.fr
+   étudiant : 133 => eugenie.dalmas@isen.yncrea.fr
+
+Pour le projet 18 (6/6)
+   étudiant : 20 => clement.champion@isen.yncrea.fr
+   étudiant : 68 => loucas.rodrigues@isen.yncrea.fr
+   étudiant : 86 => axel.marlard@student.yncrea.fr
+   étudiant : 99 => julia.mourier@isen.yncrea.fr
+   étudiant : 121 => charles.deleforge@isen.yncrea.fr
+   étudiant : 165 => khalil.bahri@isen.yncrea.fr
+
+Pour le projet 19 (6/6)
+   étudiant : 0 => julien.becquet@isen.yncrea.fr
+   étudiant : 17 => theo.bondarec@isen.yncrea.fr
+   étudiant : 18 => kwaku-antwi.addo@student.yncrea.fr
+   étudiant : 21 => tristan.milcent@isen.yncrea.fr
+   étudiant : 23 => anthony.teye-adjei@student.yncrea.fr
+   étudiant : 115 => erwan.wattelier@isen.yncrea.fr
+
+Pour le projet 20 (5/5)
+   étudiant : 13 => youssef.houra@student.yncrea.fr
+   étudiant : 53 => louis.jeannin@isen.yncrea.fr
+   étudiant : 54 => imane.choukhi@isen.yncrea.fr
+   étudiant : 66 => thibaud.dirou@student.yncrea.fr
+   étudiant : 87 => anna.manko@student.yncrea.fr
+
+Pour le projet 21 (4/4)
+   étudiant : 2 => ralph-patrick.noundou-ngatcha@student.yncrea.fr
+   étudiant : 25 => irena.antoniuk@student.yncrea.fr
+   étudiant : 46 => robin.maillot@student.yncrea.fr
+   étudiant : 164 => thibaud.de_villardi_de_montlaur@isen.yncrea.fr
+
+Pour le projet 22 (5/6)
+   étudiant : 24 => maxence.vandenbilcke@isen.yncrea.fr
+   étudiant : 112 => clement.arnaud@isen.yncrea.fr
+   étudiant : 126 => maxence.chopineau@student.yncrea.fr
+   étudiant : 139 => pierre-yves.potages@student.yncrea.fr
+   étudiant : 166 => fabien.bruge@isen.yncrea.fr
+
+Pour le projet 23 (3/4)
+   étudiant : 61 => jean-philippe.bizet@isen.yncrea.fr
+   étudiant : 105 => minh-tran.nguyen@isen.yncrea.fr
+   étudiant : 113 => thibaut.delattre@isen.yncrea.fr
+
+Pour le projet 24 (3/4)
+   étudiant : 34 => maxence.bionne@isen.yncrea.fr
+   étudiant : 83 => martin.bassez@isen.yncrea.fr
+   étudiant : 168 => theo.selimoglu@isen.yncrea.fr
+
+Pour le projet 25 (3/4)
+   étudiant : 44 => charles.sailliot@isen.yncrea.fr
+   étudiant : 70 => camille.benoist@student.yncrea.fr
+   étudiant : 107 => geoffrey.delfosse@isen.yncrea.fr
+
+Pour le projet 26 (5/6)
+   étudiant : 1 => thomas.candusso@isen.yncrea.fr
+   étudiant : 67 => benjamin.maerten@isen.yncrea.fr
+   étudiant : 89 => michael.gross@student.yncrea.fr
+   étudiant : 134 => louis-henri.haguet@student.yncrea.fr
+   étudiant : 143 => theodore.westeel@isen.yncrea.fr
+
+Pour le projet 27 (3/4)
+   étudiant : 9 => baptiste.royer@isen.yncrea.fr
+   étudiant : 47 => hugo.bogaert@student.yncrea.fr
+   étudiant : 59 => julien.ducornait@isen.yncrea.fr
+
+Pour le projet 28 (5/6)
+   étudiant : 12 => damien.baurens@student.yncrea.fr
+   étudiant : 22 => julien.meunier@isen.yncrea.fr
+   étudiant : 58 => kevin.ficet@isen.yncrea.fr
+   étudiant : 106 => mehdi.elaiba@isen.yncrea.fr
+   étudiant : 123 => enguerrand.deneuville@isen.yncrea.fr
+
+Pour le projet 29 (8/8)
+   étudiant : 27 => carlos.albacete@student.yncrea.fr
+   étudiant : 28 => jose.jimenez@student.yncrea.fr
+   étudiant : 80 => clarisse.khakbaz-monfared@isen.yncrea.fr
+   étudiant : 88 => antoine.heseque@isen.yncrea.fr
+   étudiant : 92 => anthony.monvoisin@isen.yncrea.fr
+   étudiant : 125 => nicolas.defoort@isen.yncrea.fr
+   étudiant : 152 => ludovic.guffroy@isen.yncrea.fr
+   étudiant : 167 => rayan.boukerdenna@isen.yncrea.fr
+
+Pour le projet 30 (6/6)
+   étudiant : 50 => alex.takoukam_fokam@isen.yncrea.fr
+   étudiant : 81 => jean-charles.coudon@isen.yncrea.fr
+   étudiant : 82 => alexis.soltysiak@isen.yncrea.fr
+   étudiant : 91 => yunchan.guo@student.yncrea.fr
+   étudiant : 144 => gael.courmont@isen.yncrea.fr
+   étudiant : 147 => romain.meunier@student.yncrea.fr
+
+Pour le projet 31 (6/6)
+   étudiant : 6 => louis.hobeiter@isen.yncrea.fr
+   étudiant : 69 => lucas.landru@isen.yncrea.fr
+   étudiant : 79 => hadrien.bernard_delattre@isen.yncrea.fr
+   étudiant : 108 => matthieu.licette@hei.yncrea.fr
+   étudiant : 158 => benjamin.goossens@isen.yncrea.fr
+   étudiant : 169 => johan.roux@isen.yncrea.fr
+
+Pour le projet 32 (4/4)
+   étudiant : 64 => marguerite.ebene_kengne@isen.yncrea.fr
+   étudiant : 102 => flavien.desse@isen.yncrea.fr
+   étudiant : 129 => simon.goncalves@student.yncrea.fr
+   étudiant : 135 => paul.bucamp@isen.yncrea.fr
+
+Pour le projet 33 (6/6)
+   étudiant : 56 => adelie.vasseur@student.yncrea.fr
+   étudiant : 96 => paul.delarue@isen.yncrea.fr
+   étudiant : 101 => cyril.delannoy@student.yncrea.fr
+   étudiant : 128 => pierre-louis.vallet@isen.yncrea.fr
+   étudiant : 154 => louis.vivier@isen.yncrea.fr
+   étudiant : 160 => etienne.schelfhout@isen.yncrea.fr
+
+Pour le projet 34 (3/4)
+   étudiant : 42 => hyacinthe.chaigne@isen.yncrea.fr
+   étudiant : 97 => antoine.asset@isen.yncrea.fr
+   étudiant : 142 => leo.delaby@isen.yncrea.fr
+
+Pour le projet 35 (5/5)
+   étudiant : 3 => pierrick.dumas@isen.yncrea.fr
+   étudiant : 36 => honorine.fourmestraux@student.yncrea.fr
+   étudiant : 38 => william.pecqueux@isen.yncrea.fr
+   étudiant : 73 => nicolas.te@adimaker.yncrea.fr
+   étudiant : 118 => marc.caboche@isen.yncrea.fr
+
+Pour le projet 36 (5/5)
+   étudiant : 32 => jean.de_guyon@isen.yncrea.fr
+   étudiant : 49 => raphael.camizuli@adimaker.yncrea.fr
+   étudiant : 140 => pierre.niclas@student.yncrea.fr
+   étudiant : 161 => romuald-koami-mawupe.aziagba@student.yncrea.fr
+   étudiant : 163 => romain.du_passage@isen.yncrea.fr
+
+Pour le projet 37 (4/4)
+   étudiant : 130 => nicolas.bloch@student.yncrea.fr
+   étudiant : 148 => alexandre.barbosa_de_oliveira@isen.yncrea.fr
+   étudiant : 156 => florian.leclercq@isen.yncrea.fr
+   étudiant : 157 => peter.raulin@isen.yncrea.fr
+
+Pour le projet 38 (6/6)
+   étudiant : 14 => pierric.charbonnier@student.yncrea.fr
+   étudiant : 30 => thomas.brufau@isen.yncrea.fr
+   étudiant : 33 => gatien.soetens@isen.yncrea.fr
+   étudiant : 37 => alex.capoen@isen.yncrea.fr
+   étudiant : 45 => othylien.cattaux@isen.yncrea.fr
+   étudiant : 114 => victor.virique@isen.yncrea.fr
